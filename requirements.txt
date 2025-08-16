@@ -1,0 +1,8 @@
+diffusers
+transformers
+accelerate
+datasets
+peft
+torch
+pillow
+flask
